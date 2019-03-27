@@ -8,7 +8,8 @@ Manufacturing pros everywhere, rejoice! You can enable automated machine learnin
 
 ## Slides
 ![Bates - SplunkConf_18](https://github.com/brianpbates/splunkconf-2018/blob/master/pptpngtest.png)
-
+https://github.com/brianpbates/splunkconf-2018/blob/master/IoT1568_DigitalTransformationinManufacturing_Final_1538804478041001rz9H.pdf
+*large file warning
 
 ## Video
 ![Bates - SplunkConf_18](https://github.com/brianpbates/splunkconf-2018/blob/master/IoT1568_DigitalTransformationinManufacturing_Video.png)
